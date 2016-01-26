@@ -1,4 +1,4 @@
 # Sample Application
 
 left off at:
-https://www.railstutorial.org/book/sign_up#cha-sign_up
+https://www.railstutorial.org/book/log_in_log_out#cha-log_in_log_out
